@@ -31,3 +31,5 @@ create table register(prn varchar(25),username varchar(50),email varchar(50),pas
 create table student(firstname varchar(50),middlename varchar(50),lastname varchar(50),prn varchar(25),email varchar(50),phone varchar(25),dob varchar(50),year varchar(25),branch varchar(50),foreign key(prn) references register(prn));
 
 create table participate(eventname varchar(100),teamname varchar(100),teamleadername varchar(100),teammember1name varchar(100),teammember2name varchar(100),teammember3name varchar(100),email varchar(100));
+
+You also need to add 3 jar files which I have added in the folder named jar files.
