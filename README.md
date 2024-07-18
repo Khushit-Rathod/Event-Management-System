@@ -36,7 +36,7 @@ You also need to add 3 jar files which I have added in the folder named jar file
 
 Some snapshots of our project
 
-![Screenshot 2024-07-18 232512](https://github.com/user-attachments/assets/741cda15-fe19-4a26-94e5-feb999134dce)
+![Screenshot 2024-07-18 232512](https://github.com/user-attachments/assets/8db63a11-4c67-438b-9ba9-d16e40c42440)
 ![Screenshot 2024-07-18 232630](https://github.com/user-attachments/assets/c426a599-84d9-451d-a85e-ae4aee9743f1)
 ![Screenshot 2024-07-18 232653](https://github.com/user-attachments/assets/9929470e-5751-4319-b411-c4477f7c0def)
 
