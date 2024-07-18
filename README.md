@@ -33,3 +33,10 @@ create table student(firstname varchar(50),middlename varchar(50),lastname varch
 create table participate(eventname varchar(100),teamname varchar(100),teamleadername varchar(100),teammember1name varchar(100),teammember2name varchar(100),teammember3name varchar(100),email varchar(100));
 
 You also need to add 3 jar files which I have added in the folder named jar files.
+
+Some snapshots of our project
+
+![Screenshot 2024-07-18 232653](https://github.com/user-attachments/assets/9929470e-5751-4319-b411-c4477f7c0def)
+![Screenshot 2024-07-18 232630](https://github.com/user-attachments/assets/c426a599-84d9-451d-a85e-ae4aee9743f1)
+![Screenshot 2024-07-18 232512](https://github.com/user-attachments/assets/741cda15-fe19-4a26-94e5-feb999134dce)
+
